@@ -1,0 +1,20 @@
+{
+  "name": "react-social-preview",
+  "version": "0.0.0",
+  "description": "A package for generating social preview",
+  "homepage": "https://github.com/ShivamBhuskute/Social_Preview#readme",
+  "bugs": {
+    "url": "https://github.com/ShivamBhuskute/Social_Preview/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivamBhuskute/Social_Preview.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
