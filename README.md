@@ -1,2 +1,2 @@
 # Social_Preview
-Generating social preview via SSG in any React Application
+A react package for generating static pages for social preview converting it into MPA instead of SPA.
